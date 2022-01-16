@@ -1,0 +1,64 @@
+#teamlogo{
+    width:60px;
+    height:50px;
+}
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+#banner{
+    width:100vw;
+    height:100vh;
+}
+
+header{
+	background: linear-gradient(rgba(0,0,10,0.5),rgba(0,0,10,0.5)),url(pictures/firstbanner.jpeg);
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+}
+
+#title{
+    font-weight:700;
+	font-size: 6vw;
+	letter-spacing: 2px;
+	text-align: center;
+	padding-top: 20%;
+    text-transform: uppercase;
+	color: white;
+}
+
+#description{
+    margin-top:-30px;
+    font-family: 'Lato', sans-serif;
+    font-size: 3vw;
+    text-align: center;
+    color: white;
+    text-transform: lowercase;
+}
+
+#mission{
+    background-color: #99CCFF;
+	background-position: center;
+	height: 100vh;
+    width: 100vw;
+    max-width: 10000px;
+}
+
+#title2{
+    margin-top:120px;
+    font-size: 10vh;
+    font-family: 'Oswald', sans-serif;
+}
+
+#teampic{
+    margin-top:150px;
+    margin-left:40px;
+    width:600px;
+    height:450px;
+}
+
+#description2{
+    font-size: 3vh;
+    font-family: 'Outfit', sans-serif;
+}
